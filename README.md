@@ -4,7 +4,7 @@ Renta is a comprehensive web application built with the PERN stack (PostgreSQL, 
 
 ## Project Background
 
-> **Note:** This project began as a group capstone at Fullstack Academy. I contributed heavily to the original team effort, building out key features on both the frontend and backend. My work included the resident and manager dashboards, Stripe payment integration, and the file upload system using Multer and Cloudinary.
+> **Note:** This project began as a group capstone at Fullstack Academy. I contributed heavily to the original team effort, building out key features on both the frontend and backend. My work included project mapping and layout, navigation, resident and manager payment interface, manager properties/units/user controls, and styling.
 >
 > After graduation, I created this solo repo to refactor the codebase, make the app mobile responsive, improve accessibility, and polish the user experience for professional portfolio use.
 
@@ -70,7 +70,7 @@ To get a local copy up and running, follow these simple steps.
 1.  **Clone the repository:**
 
     ```sh
-    git clone [https://github.com/sudosu-dev/property_management_portfolio](https://github.com/sudosu-dev/property_management_portfolio)
+    git clone [https://https://github.com/aidanhenning/Property-Management-App](https://https://github.com/aidanhenning/Property-Management-App)
     cd your-repo-name
     ```
 
@@ -163,6 +163,6 @@ While the application is fully functional, I have identified several areas for f
 
 ## Contact
 
-Your Name – [matthewsharp.developer@gmail.com](mailto:matthewsharp.developer@gmail.com)
+Aidan Henning – [henningaidan@gmail.com](mailto:henningaidan@gmail.com)
 
-Project Link: [https://github.com/sudosu-dev/property_management_portfolio](https://github.com/sudosu-dev/property_management_portfolio)
+Project Link: [https://https://github.com/aidanhenning/Property-Management-App](https://https://github.com/aidanhenning/Property-Management-App)
